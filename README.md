@@ -453,12 +453,6 @@ python explainability.py --project-root . --n-samples 25 --model resnet50
   - Geospatial visualization
   - Sample property images
 
-- **[model_training.ipynb](model_training.ipynb)**: Model development
-  - Baseline training and evaluation
-  - Fusion model experiments
-  - Performance analysis
-  - Error analysis
-
 ---
 
 ## 🔍 Inference Example
