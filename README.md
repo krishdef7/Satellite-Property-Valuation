@@ -601,7 +601,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📧 Contact
 
-**Email**: gargkrish06@gmail.com 
+**Email**: gargkrish06@gmail.com
+
 **Competition**: CDC X Yhills OPEN PROJECTS 2025-2026  
 **Date**: January 2026
 
