@@ -1,0 +1,45 @@
+# =============================================================================
+# Satellite Imagery-Based Property Valuation
+# CDC X Yhills Open Projects 2025-2026
+# =============================================================================
+
+# Data Handling (Required by competition)
+pandas>=2.0.0
+numpy>=1.24.0
+geopandas>=0.14.0
+scipy>=1.10.0
+
+# Machine Learning (Required by competition)
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Deep Learning (Required by competition)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing (Required by competition)
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Visualization (Required by competition)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API & HTTP
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Model Explainability
+shap>=0.42.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+nbformat>=5.9.0
+
+# Geospatial
+geopy>=2.3.0
+
+# Hyperparameter Optimization (optional)
+optuna>=3.3.0
