@@ -56,7 +56,6 @@ The baseline model went through **6 major iterations** to reach optimal performa
 1. **Post-processing destroys performance**: Clipping added +$5.7K RMSE, sanity checks added +$15K
 2. **Specialist models fail on small segments**: Waterfront specialist had R²=-1.88 (worse than random!)
 3. **Stability > Complexity**: V5's simpler architecture beat V4's complex specialists
-4. **Stratified GroupKFold is critical**: Reduces fold variance from 28.6% to <25%
 
 ### Final Baseline Architecture
 
